@@ -6,11 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "overrides": {
     "graceful-fs": "^4.2.10"
   },
-  
   "author": "Anton Kuznetsoff",
   "license": "ISC",
   "dependencies": {
@@ -27,11 +25,8 @@
     "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2",
     "jquery": "^3.6.1",
+    "rateyo": "^2.3.2",
     "sass": "^1.54.9",
     "slick-carousel": "^1.8.1"
-    
   }
 }
-
-
-
